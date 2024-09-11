@@ -1,2 +1,2 @@
-# Git-Asg
-This file shows git command assignment
+# Git_Commands
+This file shows git commands.
